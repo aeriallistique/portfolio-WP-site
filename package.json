@@ -18,5 +18,8 @@
   "homepage": "https://github.com/aeriallistique/portfolio-WP-site#readme",
   "devDependencies": {
     "sass": "^1.45.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
   }
 }
